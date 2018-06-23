@@ -2,6 +2,8 @@
 
 Trying to figure ou a system to work with multilingual websites
 
+Demo: gatsby-ml-sample.surge.sh
+
 ## Existing approaches
 
 There are some plugins to work with multilingual content, but most of them are for different markdown/jsx pages.

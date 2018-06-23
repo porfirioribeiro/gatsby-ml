@@ -2,7 +2,7 @@
 
 Trying to figure ou a system to work with multilingual websites
 
-Demo: gatsby-ml-sample.surge.sh
+Demo: https://gatsby-ml-sample.surge.sh
 
 ## Existing approaches
 
